@@ -6,7 +6,7 @@
 
 <b> Installation Guideline </b> In order to install the app, clone the repo using git clone.. Run NPM init and then NPM run dev.
 
-<b> Screenshots <b> Coming soon...
+<b> Screenshots </b> Coming soon...
 
 <b> Technology Used </b> HTML, CSS, Javascript, Bootstrap, React, Mongo, Express, Node.js
 
